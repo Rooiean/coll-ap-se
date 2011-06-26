@@ -1,0 +1,52 @@
+/* CSS Document */
+
+html, body, div, span, h1,h2,h3,h4,h5,h6,
+p, pre, a, img, li, ol, ul, fieldset, form,
+ label, table, tbody, tfoot, thead, tr, th, td{
+	margin:0;
+	padding:0;
+	border:0;
+	background:none;
+	font-weight:inherit;
+	font-style:inherit;
+	text-align:left;
+	font-size:100%;
+	vertical-align:baseline;
+	list-style:none;
+}
+
+
+body {
+	font:"Verdana", Geneva, Tahoma sans-serif;
+	font-size:11px;
+	background:#FFF;
+	color:#566b8d;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color:#566b8d;
+	letter-spacing:1px;
+	font-weight:normal;
+}
+
+h1 {
+	font-size:24px;
+}
+h2 {
+	font-size:20px;
+}
+h3 {
+	font-size:17px;
+}
+h4 {
+	font-size:15px;
+}
+
+h5, h6 {
+	font-size:13px;
+}
+
+p {
+	text-align:left;
+	font-size:0.9em;
+}
